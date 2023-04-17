@@ -5,6 +5,9 @@ description: FAQ about lavalink and this site!
 
 # Frequently asked Question
 
+### What is lavalink?
+
+Lavalink is a standalone program, written in Java. Lavalink allows for sending audio without it ever reaching any of your shards. It is a great alternative to youtube-dl. Unlike raw voice solutions, such as VoiceNext, Lavalink can handle hundreds of concurrent streams, and supports sharding.
 
 ### What do I put in ID / Identifier
 
@@ -13,6 +16,11 @@ Put it as anything, it doesn't matter as long as it's one sentence and there's n
 ### What if one or more of these servers are down?
 
 Well you can simply contact the owner of it, or if the server has been down for 7 days you can make a Pull Request removing the server completely
+
+
+### How do I put my ads on this website
+
+Contact ads@darrennathanael.com, pricing starts at 2$ per day, bulk discount if you pay monthly. This site gets 120+ average visits per day.
 
 ### What is the difference between `NoSSL` and `SSL`
 SSL Uses Secure WS connection, whilst No SSL uses standard WS.
@@ -31,11 +39,6 @@ Just open a pull request and I will merge it!
 The site is hosted @ [Cloudflare pages](https://pages.dev)
 
 
-### I want to help redesign the site, how and what software do I use?
-
-Well you can design the site with [mkdocs](https://squidfunk.github.io/mkdocs-material/) and make a pull request, if it's good I will merge it!
-
-
 
 
 ### Pull Request Template
@@ -46,3 +49,7 @@ Host / IP : 192.168.0.1 or lavalink.example.com
 Port : 6969
 Password : somepasswordhere
 ```
+
+
+<!-- inject image ad -->
+<div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
