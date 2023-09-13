@@ -86,22 +86,6 @@ Password : "trazhub"
 Secure : false
 ```
 
-Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
-```bash
-Host : eu.lavalink.alexanderof.xyz
-Port: 2333
-Password : "lavalink"
-Secure : false
-```
-
-Hosted by @ [AlexanderOF](https://www.alexanderof.xyz)
-```bash
-Host : us.lavalink.alexanderof.xyz
-Port: 2333
-Password : "lavalink"
-Secure : false
-```
-
 Hosted by @ [Tooxic#4580](https://albinhakanson.se)
 ```bash
 Host : lavalink1.albinhakanson.se
